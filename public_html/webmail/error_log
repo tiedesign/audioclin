@@ -1,0 +1,15 @@
+[22-Jan-2013 14:33:51] PHP Fatal error:  Call to a member function GetFrom() on a non-object in /home/aclinrs/public_html/webmail/mini-webmail.php on line 432
+[22-Jan-2013 14:34:09] PHP Fatal error:  Call to a member function GetFrom() on a non-object in /home/aclinrs/public_html/webmail/mini-webmail.php on line 432
+[22-Jan-2013 14:38:19] PHP Fatal error:  Call to a member function GetFrom() on a non-object in /home/aclinrs/public_html/webmail/mini-webmail.php on line 432
+[29-Apr-2013 14:38:18] PHP Fatal error:  Call to a member function GetFrom() on a non-object in /home/aclinrs/public_html/webmail/mini-webmail.php on line 432
+[08-May-2013 16:41:47] PHP Fatal error:  Call to a member function GetFrom() on a non-object in /home/aclinrs/public_html/webmail/mini-webmail.php on line 432
+[03-Feb-2016 14:54:19] PHP Notice:  Use of undefined constant ErrorPOP3IMAP4Auth - assumed 'ErrorPOP3IMAP4Auth' in /home/aclinrs/public_html/webmail/common/class_imapstorage.php on line 76
+[03-Feb-2016 14:54:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aclinrs/public_html/webmail/common/class_imapstorage.php:76) in /home/aclinrs/public_html/webmail/attach.php on line 175
+[03-Feb-2016 14:54:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aclinrs/public_html/webmail/common/class_imapstorage.php:76) in /home/aclinrs/public_html/webmail/attach.php on line 176
+[03-Feb-2016 14:54:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aclinrs/public_html/webmail/common/class_imapstorage.php:76) in /home/aclinrs/public_html/webmail/attach.php on line 177
+[03-Feb-2016 14:54:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aclinrs/public_html/webmail/common/class_imapstorage.php:76) in /home/aclinrs/public_html/webmail/attach.php on line 179
+[03-Feb-2016 14:54:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aclinrs/public_html/webmail/common/class_imapstorage.php:76) in /home/aclinrs/public_html/webmail/attach.php on line 180
+[03-Feb-2016 14:54:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aclinrs/public_html/webmail/common/class_imapstorage.php:76) in /home/aclinrs/public_html/webmail/attach.php on line 181
+[03-Feb-2016 14:54:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aclinrs/public_html/webmail/common/class_imapstorage.php:76) in /home/aclinrs/public_html/webmail/attach.php on line 183
+[03-Feb-2016 14:54:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aclinrs/public_html/webmail/common/class_imapstorage.php:76) in /home/aclinrs/public_html/webmail/attach.php on line 184
+[03-Feb-2016 14:54:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aclinrs/public_html/webmail/common/class_imapstorage.php:76) in /home/aclinrs/public_html/webmail/attach.php on line 185

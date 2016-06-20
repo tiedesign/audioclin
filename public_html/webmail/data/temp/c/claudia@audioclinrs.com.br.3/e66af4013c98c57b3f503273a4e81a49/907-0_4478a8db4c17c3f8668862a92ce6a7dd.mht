@@ -1,0 +1,3045 @@
+From: "Salvo pelo Windows Internet Explorer 9"
+Subject: =?Windows-1252?Q?ProSindWeb_-_Impress=E3o_de_Boleto?=
+Date: Tue, 4 Aug 2015 12:09:16 -0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01D0CEAE.62AA6570"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17514
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01D0CEAE.62AA6570
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://sweb1.diretainformatica.com.br:7080/prosindweb/bloqueto.php?tp=CAS&ano=2015&mes=07&venc=10/08/2015
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>ProSindWeb - Impress=E3o de Boleto</TITLE>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<STYLE type=3Dtext/css>.instru {
+	MARGIN-TOP: 0px; FONT: 9px Arial; MARGIN-BOTTOM: 0px; COLOR: black
+}
+.direta {
+	FONT-FAMILY: verdana; COLOR: black; FONT-SIZE: 5pt
+}
+.campos {
+	FONT: bold 10px Arial; COLOR: black
+}
+.campos2 {
+	FONT: bold 12px Arial; COLOR: black
+}
+.campos3 {
+	FONT: 9px Arial; COLOR: black
+}
+.titulo {
+	FONT: 9px Arial, Helvetica, sans-serif
+}
+.linhadig {
+	FONT: bold 16px Arial; COLOR: #000000
+}
+.labels {
+	FONT: 9px "Arial Narrow"; COLOR: black
+}
+.banco {
+	FONT: bold 22px Arial; COLOR: #000000
+}
+</STYLE>
+
+<SCRIPT language=3DJavaScript>
+function tecla()=20
+{
+	if (event.keyCode=3D=3D17 || event.keyCode=3D=3D67 || =
+event.keyCode=3D=3D18) {
+		event.keyCode=3D0;
+		event.returnValue=3Dfalse;
+	}
+}=20
+document.onkeydown=3Dtecla;
+
+function printpage() {
+	window.print();
+}
+</SCRIPT>
+
+<META name=3DGENERATOR content=3D"MSHTML 9.00.8112.16421"></HEAD>
+<BODY ondragstart=3D"return false" oncontextmenu=3D"return false" =
+onload=3Dprintpage()=20
+onselectstart=3D"return false" onmousedown=3D"return false" =
+onclick=3D"return true"=20
+rightMargin=3D0 topMargin=3D0 bgColor=3D#ffffff text=3D#000000>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD class=3Dcampos vAlign=3Dtop align=3Dcenter>Instru=E7=F5es de =
+Impress=E3o</TD></TR>
+  <TR>
+    <TD class=3Dtitulo vAlign=3Dtop align=3Dcenter>Imprimir =
+preferencialmente em=20
+      impressora <B>Laser</B>, (N=E3o use modo econ=F4mico). <BR>Utilize =
+folha A4 ou=20
+      Carta - Favor Cortar na linha =
+indicada<BR></TD></TR></TBODY></TABLE><BR>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels width=3D666><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lh.gi=
+f"=20
+      width=3D665 height=3D1></TD></TR>
+  <TR>
+    <TD class=3Dlabels width=3D666 align=3Dright><B =
+class=3Dcampos>Recibo do=20
+      Pagador</B></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D5 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD width=3D41></TD></TR></TBODY></TABLE><BR>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD class=3Dcampos width=3D120><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/banco=
+s/bansicredi.bmp"=20
+      width=3D95 height=3D30></TD>
+    <TD vAlign=3Dbottom width=3D3><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/ls.gi=
+f"=20
+      width=3D2 height=3D22></TD>
+    <TD class=3Dcampost vAlign=3Dbottom width=3D61 align=3Dcenter><FONT=20
+      class=3Dbanco>748-X</FONT></TD>
+    <TD vAlign=3Dbottom width=3D3><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/ls.gi=
+f"=20
+      width=3D2 height=3D22></TD>
+    <TD class=3Dlinhadig vAlign=3Dbottom width=3D482 align=3Dright><SPAN =
+
+      class=3Dlinhadig>74893.11527 &nbsp;14460.301790 &nbsp;06560.501022 =
+&nbsp;8=20
+      &nbsp;65160000001442</SPAN></TD></TR>
+  <TR>
+    <TD colSpan=3D5><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D666 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D365>Benefici=E1rio</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D100>Carteira</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180 =
+align=3Dcenter></TD>
+    <TD class=3Dcampos height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D365>Sind. =
+Empreg. Estab. Serv.=20
+      Sa=FAde Lajeado e Vale Taquari - RS</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D100 =
+align=3Dcenter>1</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180 =
+align=3Dcenter>RECIBO DO=20
+      PAGADOR</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD></TR>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D365><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D365 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D100><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D100 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D180 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D65>Data =
+Documento</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D75>N=FAmero =
+Documento</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D50>Esp=E9cie =
+Doc.</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D40>Aceite</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D40>Esp=E9cie</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D55>Data =
+Proc.</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D100>CNPJ</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D180>Vencimento</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D65 =
+align=3Dcenter>04/08/2015</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D70 =
+align=3Dcenter>CAS201507</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D50 =
+align=3Dcenter>DM</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D40 =
+align=3Dcenter>N=C3O</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D40 =
+align=3Dcenter>Real</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D55 =
+align=3Dcenter>04/08/2015</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D100=20
+      align=3Dcenter>92.892.538/0001-76</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180=20
+    align=3Dright>10/08/2015&nbsp;</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD></TR>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D65><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D65 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D80><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D80 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D50><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D50 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D40><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D40 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D40><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D40 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D55><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D55 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D100><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D100 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D180 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D1 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D667>
+  <TBODY>
+  <TR>
+    <TD width=3D11 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 align=3Dleft>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D15></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D1 height=3D1></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=3Dtop rowSpan=3D3 width=3D321><FONT=20
+      class=3Dlabels>Instru=E7=F5es&nbsp;&nbsp;&nbsp;CONTRIBUICAO =
+ASSISTENCIAL=20
+      REFERENTE JULHO DE 2015</FONT><BR>
+      <P class=3Dinstru>At=E9 o vencimento pag=E1vel em qualquer =
+Banco</P>
+      <P class=3Dinstru>Documento vencido cobrar multa de 4% e juros de =
+mora de=20
+      1%</P>
+      <P class=3Dinstru>ao m=EAs.</P>
+      <P class=3Dinstru>Sujeito a CARTORIO apos 5 dias do vencimento</P>
+      <P class=3Dinstru></P>
+      <P class=3Dinstru></P></TD>
+    <TD width=3D335>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D140>(-) =
+Outras=20
+          Dedu=E7=F5es</TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D180>Ag=EAncia/C=F3digo=20
+            Benefici=E1rio</TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D140 =
+align=3Dright></TD>
+          <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180=20
+            align=3Dright>0179.06.56050&nbsp;</TD>
+          <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D7 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D140><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D140 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D7 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D180 height=3D1></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD width=3D11 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 align=3Dleft>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D1 height=3D1></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D335>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D140>(+) =
+Mora/Multa</TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>Nosso =
+N=FAmero</TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D140=20
+align=3Dright>&nbsp;</TD>
+          <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180=20
+            align=3Dright>15/214460-3&nbsp;</TD>
+          <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D7 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D140><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D140 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D7 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D180 height=3D1></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD width=3D11 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 align=3Dleft>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D1 height=3D1></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D335>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D140>(+) =
+Outros=20
+          Acr=E9scimos</TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>(=3D) =
+Valor=20
+          Documento</TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D1><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D140=20
+align=3Dright>&nbsp;</TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180=20
+          align=3Dright>14,42&nbsp;</TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D1><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D140></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D7></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D180></TD>
+          <TD height=3D1 vAlign=3Dtop=20
+width=3D1></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D286><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D286 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D179><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D179 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D180 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7></TD></TR>
+  <TR>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop=20
+      =
+width=3D286>Pagador&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CPF/CN=
+PJ:=20
+      09.567.203/0001-39</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D179>Escrit=F3rio =
+Cont=E1bil da=20
+      Empresa</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>(=3D) Valor =
+Cobrado</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D286>AUDIO CLIN - =
+
+      OTORRINOLARINGOLOGIA E FONO - 479</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D179>SAELIS =
+CONTABILIDADE LTDA=20
+      - ME - 206</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180 =
+align=3Dright>&nbsp;</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD></TR>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D286><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D286 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D179><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D179 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D180 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D12 width=3D7></TD>
+    <TD class=3Dlabels width=3D564><SPAN class=3Ddireta>Direta Sistemas =
+- Blumenau -=20
+      SC - 0xx47 3378-2266 - suporte@diretasistemas.com.br</SPAN></TD>
+    <TD class=3Dlabels height=3D12 width=3D7></TD>
+    <TD class=3Dlabels width=3D88>Autentica=E7=E3o Mec=E2nica</TD></TR>
+  <TR>
+    <TD width=3D7></TD>
+    <TD width=3D564></TD>
+    <TD width=3D7></TD>
+    <TD width=3D88></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD width=3D7></TD>
+    <TD class=3Dcampos width=3D500>&nbsp;</TD>
+    <TD width=3D159></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels width=3D666></TD></TR>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels width=3D666>&nbsp;</TD></TR>
+  <TR>
+    <TD class=3Dlabels width=3D666><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lh.gi=
+f"=20
+      width=3D665 height=3D1></TD></TR></TBODY></TABLE><BR><BR>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD class=3Dcampos width=3D120><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/banco=
+s/bansicredi.bmp"=20
+      width=3D95 height=3D30></TD>
+    <TD vAlign=3Dbottom width=3D3><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/ls.gi=
+f"=20
+      width=3D2 height=3D22></TD>
+    <TD class=3Dcampost vAlign=3Dbottom width=3D61 align=3Dcenter><FONT=20
+      class=3Dbanco>748-X</FONT></TD>
+    <TD vAlign=3Dbottom width=3D3><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/ls.gi=
+f"=20
+      width=3D2 height=3D22></TD>
+    <TD class=3Dlinhadig vAlign=3Dbottom width=3D482 =
+align=3Dright>&nbsp;<SPAN=20
+      class=3Dlinhadig> 74893.11527 &nbsp;14460.301790 =
+&nbsp;06560.501022 &nbsp;8=20
+      &nbsp;65160000001442</SPAN></TD></TR>
+  <TR>
+    <TD colSpan=3D5><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D666 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D427>Local de =
+Pagamento</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D45></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D180>Vencimento</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D15></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D427>Pag=E1vel em =
+Qualquer Banco,=20
+      ou Internet</TD>
+    <TD class=3Dcampos3 height=3D13 vAlign=3Dtop =
+width=3D45><B>BDL</B></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D15></TD>
+    <TD class=3Dcampos2 height=3D12 vAlign=3Dbottom width=3D180=20
+    align=3Dright>10/08/2015&nbsp;</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D15></TD></TR>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D427><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D427 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D45><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D45 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D180 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D472>Benefici=E1rio</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D180>Ag=EAncia/C=F3digo do=20
+      Benefici=E1rio</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D472>Sind. =
+Empreg. Estab. Serv.=20
+      Sa=FAde Lajeado e Vale Taquari - RS</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180=20
+    align=3Dright>0179.06.56050&nbsp;</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD></TR>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D472><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D472 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D180 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D113>Data =
+Documento</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D163>N=FAmero =
+Documento</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D62>Esp=E9cie =
+Doc.</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D34>Aceite</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D72>Data =
+Proc.</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>Nosso =
+N=FAmero</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D113 =
+align=3Dcenter>04/08/2015</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D163 =
+align=3Dcenter>CAS201507</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D62 =
+align=3Dcenter>DM</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D34 =
+align=3Dcenter>N=C3O</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D72 =
+align=3Dcenter>04/08/2015</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180=20
+    align=3Dright>15/214460-3&nbsp;</TD>
+    <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD></TR>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D113><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D113 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D163><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D163 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D62><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D62 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D34><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D34 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D72><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D72 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D180 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop colSpan=3D3>Uso do =
+Banco</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D83>Carteira</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D53>Esp=E9cie</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop =
+width=3D123>Quantidade</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D72>Valor</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>(=3D) Valor =
+Documento</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop colSpan=3D3 =
+align=3Dcenter></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos vAlign=3Dtop width=3D83 align=3Dcenter>1</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos vAlign=3Dtop width=3D53 align=3Dcenter>Real</TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos vAlign=3Dtop width=3D123></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos vAlign=3Dtop width=3D72></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D12></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180 =
+align=3Dright>14,42&nbsp;</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D75 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D31><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D31 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D83><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D83 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D53><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D53 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D123><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D123 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D72><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D72 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D180 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D667>
+  <TBODY>
+  <TR>
+    <TD width=3D10 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 align=3Dleft>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D1 height=3D1></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=3Dtop rowSpan=3D5 width=3D469>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D468>
+        <TBODY>
+        <TR>
+          <TD align=3Dleft><FONT class=3Dlabels>Instru=E7=F5es (Texto de =
+
+            Responsabilidade do Benefici=E1rio)</FONT> </TD>
+          <TD align=3Dright><FONT class=3Dlabels>&nbsp;</FONT>=20
+      </TD></TR></TBODY></TABLE><SPAN class=3Dcampos>CONTRIBUICAO =
+ASSISTENCIAL=20
+      REFERENTE JULHO DE 2015<BR><BR>At=E9 o vencimento pag=E1vel em =
+qualquer=20
+      Banco<BR>Documento vencido cobrar multa de 4% e juros de mora de =
+1%<BR>ao=20
+      m=EAs.<BR>Sujeito a CARTORIO apos 5 dias do=20
+    vencimento<BR><BR><BR><BR></SPAN></TD>
+    <TD width=3D188 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>(-)=20
+            Desconto/Abatimentos</TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180 =
+align=3Dright></TD>
+          <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D7 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D180 height=3D1></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD width=3D10 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 align=3Dleft>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D1 height=3D1></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D188 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>(-) =
+Outras=20
+          Dedu=E7=F5es</TD>
+          <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180 =
+align=3Dright></TD>
+          <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D7 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D180 height=3D1></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD width=3D10 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 align=3Dleft>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D1 height=3D1></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D188 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>(+) =
+Mora/Multa</TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180=20
+align=3Dright>&nbsp;</TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D7 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D180 height=3D1></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD width=3D10 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 align=3Dleft>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D1 height=3D1></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D188 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>(+) =
+Outros=20
+          Acr=E9scimos</TD>
+          <TD class=3Dcampos height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180=20
+align=3Dright>&nbsp;</TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D7 height=3D1></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+            width=3D180 height=3D1></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD width=3D10 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 align=3Dleft>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D188 align=3Dright>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>(=3D) =
+Valor Cobrado</TD>
+          <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D1 =
+align=3Dright><IMG=20
+            border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D13></TD></TR>
+        <TR>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D180=20
+align=3Dright>&nbsp;</TD>
+          <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D1 =
+align=3Dright><IMG=20
+            border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+            width=3D1 height=3D12></TD></TR>
+        <TR>
+          <TD height=3D1 vAlign=3Dtop width=3D7></TD>
+          <TD height=3D1 vAlign=3Dtop width=3D180></TD>
+          <TD height=3D1 vAlign=3Dtop=20
+width=3D1></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D666><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D666 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D50>Pagador</TD>
+    <TD class=3Dcampos height=3D13 vAlign=3Dtop width=3D429>AUDIO CLIN - =
+
+      OTORRINOLARINGOLOGIA E FONO - 479<BR></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>CPF/CNPJ:=20
+      09.567.203/0001-39</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D50></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D429>AV BENJAMIN =
+CONSTANT 1010=20
+      - CENTRO</TD>
+    <TD class=3Dlabels height=3D12 vAlign=3Dtop width=3D180></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D50></TD>
+    <TD class=3Dcampos height=3D12 vAlign=3Dtop width=3D609>95900-000 - =
+LAJEADO -=20
+RS</TD>
+    <TD class=3Dcampos height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D50></TD>
+    <TD class=3Dcampos height=3D13 vAlign=3Dtop width=3D429>SAELIS =
+CONTABILIDADE LTDA=20
+      - ME - 206<BR></TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D180>C=F3d. =
+Baixa: 15/214460-3</TD>
+    <TD class=3Dlabels height=3D13 vAlign=3Dtop width=3D7><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gi=
+f"=20
+      width=3D1 height=3D13></TD></TR>
+  <TR>
+    <TD height=3D1 vAlign=3Dtop width=3D7><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D7 height=3D1></TD>
+    <TD class=3Dlabels height=3D1 vAlign=3Dtop width=3D50><IMG =
+border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D50 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D429><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D429 height=3D1></TD>
+    <TD height=3D1 vAlign=3Dtop width=3D180><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.g=
+if"=20
+      width=3D180 height=3D1></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels height=3D12 width=3D7></TD>
+    <TD class=3Dlabels width=3D409></TD>
+    <TD class=3Dlabels width=3D250 align=3Dright>Autentica=E7=E3o =
+Mec=E2nica - <B=20
+      class=3Dcampos>Ficha de Compensa=E7=E3o</B></TD></TR>
+  <TR>
+    <TD class=3Dlabels colSpan=3D3></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD height=3D50 vAlign=3Dbottom align=3Dleft>
+      <DIV align=3Dcenter>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D445 =
+align=3Dleft>
+        <TBODY>
+        <TR>
+          <TD width=3D"100%"><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D3 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_branco.gif"=20
+            width=3D1 height=3D50><IMG border=3D0=20
+            =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcod=
+el25/ponto_preto.gif"=20
+            width=3D1 =
+height=3D50></TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D666>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels width=3D666></TD></TR>
+  <TBODY>
+  <TR>
+    <TD class=3Dlabels width=3D666>&nbsp;</TD></TR>
+  <TR>
+    <TD class=3Dlabels width=3D666><IMG border=3D0=20
+      =
+src=3D"http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lh.gi=
+f"=20
+      width=3D665 height=3D1></TD></TR>
+  <TR>
+    <TD class=3Dlabels width=3D666 align=3Dright>Cortar=20
+Aqui</TD></TR></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_0000_01D0CEAE.62AA6570
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lh.gif
+
+R0lGODlhmQICAIAAAP///wAAACH5BAAAAAAALAAAAACZAgIAAAJtjB8AeMrmXmQT1bZkptt2/CQf
+NIrhRZ4lamrq68YcPMsefdugnvJtDcwFd8Ne8SdMEpVGJnIJbUaf0ir1ysqutriptmvl+r5j8ZF8
+NjvRa7XXHYZj5ew3eH6vx/P0Pv9fBpgm2EZoF4g4mLhWAAA7
+
+------=_NextPart_000_0000_01D0CEAE.62AA6570
+Content-Type: image/bmp
+Content-Transfer-Encoding: base64
+Content-Location: http://sweb1.diretainformatica.com.br:7080/prosindweb/images/bancos/bansicredi.bmp
+
+Qk32IAAAAAAAADYEAAAoAAAAnwAAAC4AAAABAAgAAAAAAMAcAAASCwAAEgsAAAABAAAgAAAAAAAA
+AP///wDW1tYAra2tAHt7ewBKSkoAKCgoAO/v7wC9vb0AmZmZABkZGQBmZmYAxcXFAObm5gCMjIwA
+Ojo6ABAQEAD39/cAZmZmAN7e3gC1tbUAUlJSAMzMzAClpaUAISEhAISEhAAICAgAmZmZADMzMwBa
+WloAc3NzAEJCQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBEQcHBwEBEREBAQEBCwAZEwgUDAcBERERAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEEDggMEQEBAQsADgEBBwwUAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAREe
+ABkNCBEBAQEeABkBAQENFAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQcfABcRAQMTAQEBCwAO
+AQEBAgIRAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQIVEAMBAQECDAEBAQsADgEBAQMHAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFtAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEOAB0BAQEREQMRAQELAA4BAREUEREBEQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBEQERAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEB
+AQEBAQEBBwEBDQUQFAEBEQEMDQEBCwAOAQETFgEBBwEBAREREREREREBEQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBEQEBAQEBAQEREQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEBARYDFAwUCAIO
+AAoTAQEBEwkMDAUAGQEBFAkMCAwXDhcDCAgICAgIFAgICAgICAgICAgICAgICAgICAgICAgICAgI
+CAgICAgICAgICAgICAgICAgIFA0JCRkDAQEREQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEBAQEJDh8eHwITBw4AFREBAREDAg0V
+AA4BERQWDQINBhoIFBYTDQ0NCRkNEw0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0N
+DQ0NDQ0NAggLABAQHxQWAREBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEBFxccEBwHAQEBFQAOAQERDBMBHgAOAQ0IBwEBGQAL
+AQcIAQEBAQIXAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQIMCg4N
+Ew0JAgEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAW0B
+AQEBAQEBAQEBAQEBAQEBAQkJHRkLBwcNBwwQEAgBAQIIDR0ADgETFwcHFBoYDQEBAwINDQcWBBYH
+DQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQIMHwYRAQECCAERAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEB
+AQEBAQEMFwkICQwUFAwMGQAcBwERCQMVAA4BFhkWFxAQFAEBEQ0OAwgICBcUFBQMDAwMDAgICAgI
+CAgMDAgMCAMUFBQUCBYCFhYIDBQMCAgMCAgICAgMDhoIAQEHCAEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBEQEBAQEBAQERAQEBAQEBAQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEBAREBARER
+EREHEQEZAAsBARQHCwAZAQMNER4ABAEREREBFA0REREBAREHEwITExMHAQERBwcCAgITExEREQcR
+AQ0ICQkIAgcBDQICAgINAQcBAgoeAQEBCAgNDQ0NDQ0NEw0BERMTExMNDQ0NDQ0RAREBDRMTExMH
+AREBAQEBAQEBAQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEBAQEBAQ0NAQERAQEBEQUAAwEH
+DAsADgEJAQ4AHBEBAQEBAgMNAQEBDQQLHwoKChAQHwsJBwEHHxgQCgoUEREREQ4GABoKGBgFEwkK
+CgoQHgEBAR0KBwEBEwYYEBAQEBAaChAGAxEFChAKEBAQEBAQDw4NAQkYGBAaBQIBAQEBAQEBAQEB
+AQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEBAQEBDAsEAxYREQERAQEWChgTARQOCgsDEwIYGBMB
+AQEHCAgREREREREfHw4OCQkJCQ4OHh4WAR0FCQkJCRQBAQQAGA4CAhMMCQMEChkJDgMDARcAFwEB
+BwgGHRcJCQkJCQkODgkCCx8JCQkJCQkJCQkVHgcNGAsJDgkXEwEBAQEBAQEBAQEBAQEBAQEBAQEB
+bQEBAQEBAQEBAQEBAQEBAQEBAQgAHBETAxYRAQEBAQMAFQ0IDQ0NAgcVAAkBAQECFAIBAREREQEB
+BB0BAQEBAQEBAQENCBYOBQEBAQcIARcAHxMBAQEBAQERCQYCAQEBFAwKHQEBEQwNCwQBAQEBAQEB
+AQERFgkFAQEBAQEBAQEBARMMBw8OAQEBAggBAQEBAQEBAQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEB
+AQEBAQEBAQEDGgQBAQcWFBYRAQEHFwgWDQEBEQEOAB4BAQcDDAcBAQEBAQEBARYPDQEBAQEBAQEB
+ARECDhgCAQEBFhYPCgIBAQEBAREBAQwKBAEBAQ0fEAIBAQ0MARQFEREBAQEBAQEBAQIXHAgBAQEB
+AQEBAQEBEQIEHREREQcIEQEBAQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEBAQEBCwAO
+AQEBAQcWAwIHAQEBEQEBAREBFQAXAQwUDQEBAQEBAQEBAQENHggNEwIIDBMHEQEBARcYFwERARYJ
+EAQBAREBAgMDAwwDHxUBARERHBkBAQcZAgECDwIBAQEXDx8fHwsDCAUZAREBAgkJDgcBAQECDhwN
+AQERCBMBAQERAQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEBAR4ABAERERERAQcMCAIR
+EREBAQEBAQMPGQwIBwEBAQEBAQEBEQEBAREICAgCBw0JBhcBARENEB4BAQEHCRADAQEBAggHARET
+EwMcDQEBAQgHEQEDEBwIAQUXAREBCB8FBQUeCAEdFQERAQcIAQsLAQEBAQkcCAEBAQwMAQEBAQEB
+AQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEBAQcPEAgBARERAQEBAQcMAw0BAQEBAQEBDQcT
+AREREQEBAQEBAQEBAQERAQERCRUcGAAOAQEBBx0PEQEBAQMYAwERAQgNAQEBAQEHHAMBEQEBAhMT
+DQwCAxMZCwEBEREBAQEBAQwNAxwHAQEBFwEJGAcBAQEUDwQBEQECCAEBAQERAQEBAQEBAQEBAQEB
+AQFtAQEBAQEBAQEBAQEBAQEBAQEHBgAMAQERERERAQEBAQwCAQEBAQEBBwEBEQcHAQEBAQEBAREB
+AQEBAQEDHBoPHgkCAQERAQ0JDxYBEQEWBQsBERETGQMUGRkeAhUeAQEBAgMCFQQBAQECDhwHARER
+ExYCAgIICAcGCAEBARQZHBoNAREBAhUfEQEBEQgHAQERAQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEB
+AQEBAQEBAQEBFhAYEwEREQEBEQENAgIXBwEBAQERAREBAQEBEQEBAQEBAQEBAREBEQEMEBADAQEB
+AQEBAREIBxwOAQEBEw4dBwEBAQkYBgoKCgkdHxEBEQEZHAAQDQEBBwkcDAEBEQ4aGhoaGgUBBRkB
+BxETAAAdEQEBARMODwIBEQEUDQEBEQEBAQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEBAQMF
+BAMUAwMXAwMXCAwMDAEBAQEBAQEBCRUEAwMDAwMDAwMDAwEBAQEBHgAIAQEBAQEBBxMIEwEeFQEB
+AQcIBAkBEREBBw0HBwcNHhgTAQEBAx8FFwEBAQcMBQ4BAQETAwMXFxcDCAsdERERARQWEQEBAREN
+FB8DAREBDAIBAQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQER
+EQEHAQEBAQEBAQsABAEBAREREQEBBwMBAQEBDQYVAQEBEREWCBQUBwEBFBgHAQEBFhMJDQEBAQEB
+AQEBARQKAwEREQEBAQEBAQEHDBkVAQEBAQEBAQEBAQgJGBMBAQEBAQEBEREBAgILCwEBAQcDAREB
+AQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEREQEBAREBAQEBAQEL
+AAsBAQEBAQEBAQIWAQEBAQcYDgEBEREDFhYNARECEREZCAEBARYCAQgCBxEREQEBAREIDgkREREB
+AQEBAQEBExYTBA0BAQEBAQEBEQETCAQIAQEBAQEBERERExQRDAQNAQERCAEBAQEBAQEBAQEBAQEB
+AQEBAW0BAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBARENDQ0RAREBAREBDQQYCwwBAQEBEQEC
+FgEBAQEBBAQBEQERCxwPHxwcChcBBwMIFAwDCAEBFgMUCAgIFBQUCAcXFAwICAgICAgICAwRAQIJ
+CAgICAgICAgIAwMRFBQICAgICAgIAwgHAQECAwgMCBQBAQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAREBAQgcHgwDAQEBAREBAQEBAgsKHQgNAQEBAggBAQEBARYPAgEB
+EQIJCx0dCQMXAgENAhMNEwcBEQEBDRMTExMNDREBBw0TAg0TExMTExMBARERAgINExMTExMTExMN
+AQ0TDRMTExMTAgcBAQEBARMTExMNAQEBAQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAREBERkQBRYRFhYBAQEBERYTAgEBExkcDwkNARYWAQEBAQEBFwgBAQEBAQEBAQEBERQH
+EQEBAQEBAQEBAQEBAQEBAQEREQERAQEBAQEBAQEBEQcBAQEBAQEBAQEBAQEBAREBAQEBAQEBAQEB
+AQEBEREBAQEBAQERAQEBAQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBDRUA
+GQEBAQwWAQEBBx0KAwgNAQEBBw4GHAgJDQEBAQEBAQEIDAcBAQEBAQEBAQEDDQEBAQEBAQEBAQER
+AQEBAQEBAQEBAREBAQEBAQEBAQEBAQERAQEBAQEBAQEBAQEBAQEBAQEBEQEBEQERAQEBAQcBAQEB
+AQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEBAQEBEREREQEBCQoGDAEBAQ0IDQwIFgMa
+ChMBFA0BAQEBBwkMCAcBAQEBAQEBAQIUCAINEREHAhYMCQIBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEBEREREQECFRAeAQEBAREIDRUaCQIJBRAIAQIUAQEREQEB
+AQEBAQEBAQEBEREBERMIFAMDAwgWAg0BEQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAW0BAQEB
+AQEBAQEBAQEBAQEBAQEBAQEUCgoMAREREREUBwIKCgIRCBkAHgEBFhYBAQERAREBAQEBAQEBAQEB
+AQERAQEBAQEBAREBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEB
+AQEREQceEB4NAQEREQECFgEXAB8BDQwMEBwHAREUBwEBAQEBAQEBAQEBAQEREREBEREBEREREREB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEBAQEIEAoHAQEB
+AQENFBEBDgAeAQcDAQ8AFAEBBwgHAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEBAQEBER4AGQEBAREBFA0BEQ8aAwEN
+FAEZAAsBEQETFAEBAREBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEBAQEBAQENBhoWARERFhYBARMKGAIBDRQBDBAYBwEBARYW
+AQERAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBbQEB
+AQEBAQEBAQEBAQEBAQEBAQERAQ4ACwEBBwMBAQEDAAURAQ0DAQcFABQBEQERFhMBEQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEB
+AQEBAQERAQEHBQAXAQgHAQEBHgAeAQENAwEBDgAeAQEBAQIUARERAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQMQ
+BAMNEREBER8aAwEBDRQBAQIKCgcBAQcIDQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEBAQEREREHFhMUAQcHARMKCgIB
+AQ0DAQEBHQAJAQEUDQEBEQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEDAB8BAQENAwEBAQkAHwEM
+AgEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFt
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBHgAEAREBDRQBEQECBh4UAgEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBBxUAAwEREQ0DAQEBERMHAgEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAW0BAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQwaCg0BAQEHFAEBBwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFtAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECBAUZ
+AwkMDAMBAQEHEQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBbQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQENFgIJFBQWAREREREB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AW0=
+
+------=_NextPart_000_0000_01D0CEAE.62AA6570
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://sweb1.diretainformatica.com.br:7080/prosindweb/images/ls.gif
+
+R0lGODlhAgATAIAAAAAAAP///yH5BAAAAAAALAAAAAACABMAAAIFhI+py1YAOw==
+
+------=_NextPart_000_0000_01D0CEAE.62AA6570
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://sweb1.diretainformatica.com.br:7080/prosindweb/images/dot.gif
+
+R0lGODlhAQABAIAAAAAAAP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==
+
+------=_NextPart_000_0000_01D0CEAE.62AA6570
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://sweb1.diretainformatica.com.br:7080/prosindweb/images/lv.gif
+
+R0lGODlhAQATAIAAAAAAAP///yH5BAAAAAAALAAAAAABABMAAAIEhI+JBQA7
+
+------=_NextPart_000_0000_01D0CEAE.62AA6570
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcodel25/ponto_preto.gif
+
+R0lGODdhAQAKAIAAAAAAAP///yH5BAAAAAAALAAAAAABAAoAQAIDhI8FADs=
+
+------=_NextPart_000_0000_01D0CEAE.62AA6570
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://sweb1.diretainformatica.com.br:7080/prosindweb/class/barcodel25/ponto_branco.gif
+
+R0lGODdhAQAKAIAAAAAAAP///yH5BAAAAAAALAAAAAABAAoAQAIDjI8FADs=
+
+------=_NextPart_000_0000_01D0CEAE.62AA6570--

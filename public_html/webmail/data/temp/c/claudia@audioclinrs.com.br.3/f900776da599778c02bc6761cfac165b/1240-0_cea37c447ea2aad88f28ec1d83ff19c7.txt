@@ -1,0 +1,5 @@
+Final-Recipient: rfc822; executive.lajeado@aspenhoteis.com
+Original-Message-ID: <8fc5b10.6459d97488c293fe24ed1f80410229d4@webmail.audioclinrs.com.br>
+Disposition: manual-action/MDN-sent-manually; displayed
+Original-Recipient: "Hotel Aspen Executive Lajeado" <executive.lajeado@aspenhoteis.com>
+Reporting-UA: Roundcube Webmail/1.1.4
